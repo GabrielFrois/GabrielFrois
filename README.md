@@ -48,3 +48,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/GabrielFrois/GabrielFrois/output/snake.svg" alt="Snake animation" />
+
+###
