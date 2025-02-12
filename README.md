@@ -67,7 +67,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img height="150" src="https://pa1.aminoapps.com/7719/4171925ea87a2cdffc0987c6792dd1a289a72d38r1-500-250_hq.gif"  />
 </div>
 
