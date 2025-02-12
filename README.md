@@ -56,12 +56,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://pa1.aminoapps.com/7719/4171925ea87a2cdffc0987c6792dd1a289a72d38r1-500-250_hq.gif"  />
-</div>
-
-###
-
 <div align="left">
   <a href="mailto:frois.ga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
@@ -69,6 +63,12 @@
   <a href="https://www.linkedin.com/in/gabriel-r-frois-de-oliveira-0a6bb719a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://pa1.aminoapps.com/7719/4171925ea87a2cdffc0987c6792dd1a289a72d38r1-500-250_hq.gif"  />
 </div>
 
 ###
