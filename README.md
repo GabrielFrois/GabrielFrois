@@ -2,13 +2,19 @@
 
 ###
 
-<h1 align="left">Resume</h1>
+<h2 align="left">Resume</h2>
 
 ###
 
-<br clear="both">
+<p align="left">Hello, my name is Gabriel, and I am a student of Multiplatform Software Development at FATEC.<br><br>I am always looking for new challenges to enhance my skills, and I enjoy solving logical problems and creating solutions that make a difference.<br><br>Additionally, I am a collaborative person who likes to learn both independently and in teams. I am open to opportunities to learn more and apply my knowledge in real-world projects.</p>
 
-<p align="left">Hello World!!</p>
+###
+
+<h2 align="left">Languages:</h2>
+
+###
+
+<p align="left">Portuguese (BR): Native<br>English: Intermediate</p>
 
 ###
 
@@ -50,6 +56,12 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://pa1.aminoapps.com/7719/4171925ea87a2cdffc0987c6792dd1a289a72d38r1-500-250_hq.gif"  />
+</div>
+
+###
+
 <div align="left">
   <a href="mailto:frois.ga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
@@ -57,12 +69,6 @@
   <a href="https://www.linkedin.com/in/gabriel-r-frois-de-oliveira-0a6bb719a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://pa1.aminoapps.com/7719/4171925ea87a2cdffc0987c6792dd1a289a72d38r1-500-250_hq.gif"  />
 </div>
 
 ###
