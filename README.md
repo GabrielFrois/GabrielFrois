@@ -2,30 +2,20 @@
 
 ###
 
-<h2 align="left">Resume</h2>
+<h2 align="left">Resumo</h2>
 
 ###
 
-<p align="left">Hello, my name is Gabriel, and I am a student of Multiplatform Software Development at FATEC.<br><br>I am always looking for new challenges to enhance my skills, and I enjoy solving logical problems and creating solutions that make a difference.<br><br>Additionally, I am a collaborative person who likes to learn both independently and in teams. I am open to opportunities to learn more and apply my knowledge in real-world projects.</p>
+<p align="left">Olá, meu nome é Gabriel e sou aluno de Desenvolvimento de Software Multiplataforma na FATEC. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e gosto de resolver problemas lógicos e criar soluções que façam a diferença.
+<br><br>Além disso, sou uma pessoa colaborativa que gosta de aprender tanto individualmente quanto em equipe. Estou aberto a oportunidades para aprender mais e aplicar meu conhecimento em projetos reais.</p>
 
 ###
 
-<h2 align="left">Languages</h2>
+<h2 align="left">Idiomas</h2>
 
 ###
 
-<p align="left">Portuguese (BR): Native<br>English: Intermediate</p>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielFrois&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielFrois&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
-</div>
+<p align="left">Português (BR): Nativo<br>Englês: Intermediário</p>
 
 ###
 
@@ -57,7 +47,7 @@
 
 ###
 
-<h2 align="left">Contacts</h2>
+<h2 align="left">Contato</h2>
 
 ###
 
@@ -79,7 +69,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://pa1.aminoapps.com/7719/4171925ea87a2cdffc0987c6792dd1a289a72d38r1-500-250_hq.gif"  />
+  <img height="80" src="https://i.pinimg.com/originals/bd/b1/f2/bdb1f2848d8546d50e82c4ffd43b786f.gif"  />
 </div>
 
 ###
