@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Português (BR): Nativo<br>Englês: Intermediário</p>
+<p align="left">Inglês: Intermediário</p>
 
 ###
 
