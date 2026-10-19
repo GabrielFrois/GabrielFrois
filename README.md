@@ -70,7 +70,7 @@
 | **Logo Ali** | Plataforma interativa para entusiastas de viagens | TypeScript, Next.js, Tailwind CSS | [Demo](https://logo-ali.vercel.app/) |
 | **Lumina Contabilidade** | Landing page para escritório de contabilidade fictício | HTML, CSS, JavaScript | [Demo](https://gabrielfrois.github.io/lumina-contabilidade/) · [Repositório](https://github.com/GabrielFrois/lumina-contabilidade) |
 
-Veja todos os projetos, incluindo os acadêmicos, no meu [portfólio](https://gabrielfrois.github.io/dev/).
+Veja todos os projetos, incluindo os acadêmicos, no meu [portfólio](https://gabrielfrois.github.io/).
 
 ###
 
