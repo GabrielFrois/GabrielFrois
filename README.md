@@ -3,7 +3,7 @@
 <h3 align="left">Desenvolvedor Front-End · Jacareí, SP</h3>
 
 <div align="left">
-  <a href="https://gabrielfrois.github.io/dev/" target="_blank">
+  <a href="https://gabrielfrois.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&label=&color=1D2E47&labelColor=&style=for-the-badge" height="36" alt="portfólio" />
   </a>
 </div>
